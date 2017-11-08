@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.guaju.coordinatortest.MyImageView
+    <com.example.coordinatorlayoutdemo.MyImageView
         android:id="@+id/miv"
         android:layout_width="50dp"
         android:layout_height="50dp"
@@ -16,7 +16,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="hehe"
-        app:layout_behavior="com.guaju.coordinatortest.MyBehavior"
+        app:layout_behavior="com.example.coordinatorlayoutdemo.MyBehavior"
         />
 
 
